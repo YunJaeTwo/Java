@@ -1,3 +1,4 @@
+package Assignment1;
 public class Assignment1 {
 
     public static void main(String[] args){
@@ -5,7 +6,7 @@ public class Assignment1 {
         long starttime, endtime, exectime;
 
         starttime = System.nanoTime();
-        for(int i=1; i < n; i+
+        for(int i=1; i < n; i++)
         }
 
         endtime = System.nanoTime();
