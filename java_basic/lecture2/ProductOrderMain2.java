@@ -18,7 +18,5 @@ public class ProductOrderMain2 {
         int total = ProductOrder.getTotalAmount(orders);
 
         System.out.println(total);
-
-
     }
 }

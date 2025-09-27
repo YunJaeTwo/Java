@@ -1,0 +1,9 @@
+# macOS 시스템 파일
+.DS_Store
+
+# Java 컴파일된 클래스 파일
+*.class
+
+# IDE 설정 파일 (선택 사항)
+.idea/
+.vscode/
